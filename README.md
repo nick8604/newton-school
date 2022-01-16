@@ -1,2 +1,2 @@
-# newton-school
-this ia a sample project.
+this is me ayush tripathi.
+this is just for checkup.
